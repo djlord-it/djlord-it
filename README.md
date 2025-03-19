@@ -41,13 +41,6 @@
 ---
 
 
-## 🔥 **Coding Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=djlord-it&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
 ## 📡 **Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djlord-it&layout=compact&theme=radical" alt="Most Used Languages">
