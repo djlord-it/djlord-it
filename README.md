@@ -4,7 +4,7 @@ Software Engineer specializing in distributed systems, AI integration, and scala
 
 ## Current Focus
 
-Building **[EasyCron](https://github.com/djlord-it/easycron)** - an open-source distributed cron scheduler with webhook-first design, HMAC-SHA256 security, and PostgreSQL backing. Currently exploring AI-powered collaborative tools and real-time system architecture.
+Building **[CronLite](https://github.com/djlord-it/cronlite)** - an open-source distributed cron scheduler with webhook-first design, HMAC-SHA256 security, and PostgreSQL backing. Currently exploring AI-powered collaborative tools and real-time system architecture.
 
 ## Technical Expertise
 
